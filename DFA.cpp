@@ -40,7 +40,7 @@ int main()
     {
         for(int j=0; j<=n; j++)
         {
-            cout<<"(q"<<i<<", j)=q";
+            cout<<"(q"<<i<<", "<<j<<")=q";
             cin>>tt[i][j];
         }
     }
