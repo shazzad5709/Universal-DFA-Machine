@@ -16,8 +16,6 @@ int main()
     /*
     Consider the states as q0, q1 and so on
     and let q0 be the initial state
-
-    Alphabet={0, 1}
     */
 
     cout<<"No. of final states: ";
