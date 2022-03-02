@@ -38,7 +38,7 @@ int main()
     cout<<"State Transitions: "<<endl;
     for(int i=0; i<states; i++)
     {
-        for(j=0; j<=n; j++)
+        for(int j=0; j<=n; j++)
         {
             cout<<"(q"<<i<<", j)=q";
             cin>>tt[i][j];
